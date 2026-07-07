@@ -1,1 +1,18 @@
-
+{
+  "hero": {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3G9wWKJAsFE3r2rKEJPyBrPbcnt/hf_20260707_042702_61636d43-de1a-4763-90cf-e3066dc7845e.png",
+    "file": "hero.png"
+  },
+  "stroke": {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3G9wWKJAsFE3r2rKEJPyBrPbcnt/hf_20260707_050940_e37a6064-9fe7-403e-87eb-be7cdcbcb95b.png",
+    "file": "stroke.png"
+  },
+  "bloom": {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3G9wWKJAsFE3r2rKEJPyBrPbcnt/hf_20260707_042716_1e8d9f94-99bb-4bde-88a1-20d6feafbdcd.png",
+    "file": "bloom.png"
+  },
+  "washi": {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3G9wWKJAsFE3r2rKEJPyBrPbcnt/hf_20260707_042724_3594ac8e-3496-4936-82cc-c841062b640c.png",
+    "file": "washi.png"
+  }
+}
